@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prac1923</string>
+    <string name="crime_title_hint">Ingrese el nombre del delito</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Resuelto</string>
+</resources>

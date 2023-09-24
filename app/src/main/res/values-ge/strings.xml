@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prac1923</string>
+    <string name="crime_title_hint">Geben Sie den Verbreitungsnamen ein</string>
+    <string name="crime_title_label">Titel</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Gelöst</string>
+</resources>

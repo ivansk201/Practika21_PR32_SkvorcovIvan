@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prac1923</string>
+    <string name="crime_title_hint">Введите название преступления</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Раскрыто</string>
+</resources>
